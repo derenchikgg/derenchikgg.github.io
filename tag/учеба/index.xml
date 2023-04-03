@@ -5,12 +5,36 @@
     <link>https://example.com/tag/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/</link>
       <atom:link href="https://example.com/tag/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     <description>Учеба</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Учеба</title>
       <link>https://example.com/tag/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/</link>
     </image>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4-2/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4-2/</guid>
+      <description>&lt;h2 id=&#34;markdown-разметка&#34;&gt;Markdown разметка&lt;/h2&gt;
+&lt;p&gt;Markdown – это простой язык разметки, который позволяет быстро и эффективно создавать текстовые документы, статьи и даже веб-страницы. С его помощью вы можете добавлять стилизацию, ссылки на другие страницы, изображения и многое другое.&lt;/p&gt;
+&lt;p&gt;Одной из главных преимуществ Markdown является его простота. Даже новичок может быстро освоить основы и начать создавать разметку своих текстовых документов. Это решение для тех, кто хочет сосредоточиться на содержании, а не на форматировании.&lt;/p&gt;
+&lt;p&gt;Чтобы создать заголовок, вы можете использовать символы #, а для создания списка – символ * или -. Добавление изображения в Markdown осуществляется с помощью обычной ссылки. Подчеркнутый текст можно создать с помощью символов _ или * вокруг слова или предложения.&lt;/p&gt;
+&lt;p&gt;Большинство веб-приложений и платформ поддерживают Markdown, так что вы можете использовать его практически везде – от создания простого текстового документа до написания статей для блога.&lt;/p&gt;
+&lt;p&gt;В целом, язык разметки Markdown – это простое, быстрое и эффективное решение для создания текстовых документов, не утрачивая важность на форматирование. Он является отличным инструментом для тех, кто хочет быстро и легко создавать высококачественные документы, которые выглядят профессионально и красиво.&lt;/p&gt;
+&lt;p&gt;Всем спасибо!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как я провел прошлую неделю</title>
+      <link>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-2/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-2/</guid>
+      <description>&lt;p&gt;Всем привет! На прошлой неделе я выполнил лабораторную работу по ОС, а также лабораторную по технологиям программирования. Подготовил и выступил с докладом на истории. Я справился с тестом по практикуму по моделированию. И я выступил с подготовленным монологом на английском языке. Мне понравилось, как я провел прошлую неделю!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Как я провел прошлую неделю</title>
